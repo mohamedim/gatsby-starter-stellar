@@ -5,8 +5,8 @@ import logo from '../assets/images/logo.svg';
 const Header = (props) => (
     <header id="header" className="alt">
         <span className="logo"><img src={logo} alt="" /></span>
-        <h1>Willkommen in meiner Praxis</h1>
-        <p>Psychologische Psychotherapie, Beratung & Coaching</p>
+        <h1>Praxis für Psychotherapie</h1>
+        <p>Willkommen in der Praxis Badra - Psychotherapie & Coaching</p>
     </header>
 )
 
