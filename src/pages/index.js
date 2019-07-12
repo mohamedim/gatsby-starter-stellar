@@ -45,7 +45,7 @@ class Index extends React.Component {
             <div className="spotlight">
               <div className="content">
                 <header className="major">
-                  <h2>Ipsum sed adipiscing</h2>
+                  <h2>HErzlich willkommen</h2>
                 </header>
                 <p>Sed lorem ipsum dolor sit amet nullam consequat feugiat consequat magna
                 adipiscing magna etiam amet veroeros. Lorem ipsum dolor tempus sit cursus.
@@ -60,7 +60,7 @@ class Index extends React.Component {
 
           <section id="first" className="main special">
             <header className="major">
-              <h2>Magna veroeros</h2>
+              <h2>Meine Leistungen</h2>
             </header>
             <ul className="features">
               <li>
@@ -88,7 +88,7 @@ class Index extends React.Component {
 
           <section id="second" className="main special">
             <header className="major">
-              <h2>Ipsum consequat</h2>
+              <h2>Wegbeschreibung</h2>
               <p>Donec imperdiet consequat consequat. Suspendisse feugiat congue<br />
               posuere. Nulla massa urna, fermentum eget quam aliquet.</p>
             </header>
@@ -124,7 +124,7 @@ class Index extends React.Component {
 
           <section id="cta" className="main special">
             <header className="major">
-              <h2>Congue imperdiet</h2>
+              <h2>Kosten</h2>
               <p>Donec imperdiet consequat consequat. Suspendisse feugiat congue<br />
               posuere. Nulla massa urna, fermentum eget quam aliquet.</p>
             </header>
